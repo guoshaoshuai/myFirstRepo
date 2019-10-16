@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "watch": "npx tsc --watch",
+    "build": "npx tsc",
+    "tslint": "npx tslint --fix --project ."
+  }
+}
