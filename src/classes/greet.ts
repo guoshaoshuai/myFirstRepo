@@ -10,6 +10,7 @@ export class Greeter2 {
   greet() {
     if (this.greeting) console.log("Hello, " + this.greeting)
     else console.log(Greeter2.stardardGreeting)
+    console.log("master")
   }
 }
 
