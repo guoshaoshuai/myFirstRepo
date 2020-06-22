@@ -11,5 +11,6 @@ export class ImplAnimal extends AbstractAnimal {
 
 export interface InterAinmal extends ImplAnimal {
   say(): void
+
 }
 
